@@ -1,6 +1,6 @@
 <?php
 
-namespace Mosiboom\DcatIframeTab\Controllers;
+namespace Mosibooms\DcatIframeTab\Controllers;
 
 use Dcat\Admin\Layout\Content;
 use Illuminate\Routing\Controller;

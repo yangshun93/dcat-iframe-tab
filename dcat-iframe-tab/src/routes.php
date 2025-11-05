@@ -1,6 +1,6 @@
 <?php
 
-use Mosiboom\DcatIframeTab\Controllers\IframeController;
+use Mosibooms\DcatIframeTab\Controllers\IframeController;
 
 if (config('iframe_tab.enable')) {
     $attributes = [
